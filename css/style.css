@@ -764,8 +764,8 @@ ul.contact li a:hover
 {
     position: relative;
     background: url("../images/header.jpg") no-repeat bottom center;
-    background-attachment: fixed;
-    background-size: cover;
+    /*background-attachment: fixed;*/
+    background-size: 1536px 316.263px;
     text-align: center;
 }
 
